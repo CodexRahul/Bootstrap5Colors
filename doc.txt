@@ -1,0 +1,29 @@
+ Bootstrap 5 Tutorial
+
+ COLORS
+ 
+ 
+ 1. Text Colors
+
+.text-body
+.text-primary 
+.text-success 
+.text-info 
+.text-secondary 
+.text-white 
+.text-light
+.text-warning 
+.text-danger 
+.text-dark
+.text-muted
+
+2. Bg Colors
+
+.bg-primary
+.bg-success
+.bg-info
+.bg-secondary
+.bg-danger
+.bg-warning
+.bg-dark
+.bg-light
